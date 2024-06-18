@@ -15,7 +15,7 @@ for j = 1:100
         %Estimates the endmembers using the FIPPI algorithm.
         endmembers = fippi(hcube,9);
 
-        %Run PCA alorithm to reduce the hypercube to 10 wavelengths
+        %Run dimensionality reduction alorithm to reduce the hypercube to 10 wavelengths
         [newhcube, band] = selectBands(hcube, endmembers, "NumberOfBands", 10);
 
         %Print 10 most important bands
