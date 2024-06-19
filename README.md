@@ -5,16 +5,23 @@ Dimensionality Reduction with K-Means Clustering:
 * DimensionalityReduction10.m
 * KMeans.py
 
-ResNet
+Individual Wavelength Breakdown: 
 * View_HS_Bands.m
+* train{bandnumber}
+* test-{bandnumber}
+ 
+ResNet:
+* 11:
+* 151:
+* 241:
+* 361:
+* 461:
 
-VAE
-* View_HS_Bands.m
+VAE:
 * Initial VAE:
 * Redesigned VAE:
 
-DCGAN
-* View_HS_Bands.m
+DCGAN:
 * Initial DCGAN:
 * Extra DCGAN: 
 
