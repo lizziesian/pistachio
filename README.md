@@ -2,11 +2,11 @@
 MEng Individual Project Machine Learning-based Hyperspectral Imagining for Aflatoxin Detection within Pistachios
 
 Dimensionality Reduction with K-Means Clustering: 
-* DimensionalityReduction10.m
+* DimensionalityReduction10.m (MatLab)
 * kMeans.py
 
 Individual Wavelength Breakdown: 
-* View_HS_Bands.m
+* View_HS_Bands.m (MatLab)
 * train{bandnumber}
 * test-{bandnumber}
 * train: https://drive.google.com/drive/folders/1EBRASg4Elus2YdwSvgfaYdrVJGkMahsx?usp=sharing
