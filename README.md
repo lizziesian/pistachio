@@ -9,6 +9,8 @@ Individual Wavelength Breakdown:
 * View_HS_Bands.m
 * train{bandnumber}
 * test-{bandnumber}
+* train: https://drive.google.com/drive/folders/1EBRASg4Elus2YdwSvgfaYdrVJGkMahsx?usp=sharing
+* test: https://drive.google.com/drive/folders/16ubVnea3y3YiFqA2xAHxhNcGERh7Ih9e?usp=sharing
  
 ResNet:
 * 11: ResNet/ResNet11.ipynb
