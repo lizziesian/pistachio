@@ -11,11 +11,11 @@ Individual Wavelength Breakdown:
 * test-{bandnumber}
  
 ResNet:
-* 11:
-* 151:
-* 241:
-* 361:
-* 461:
+* 11: ResNet/ResNet11.ipynb
+* 151: ResNet/ResNet151.ipynb
+* 241: ResNet/ResNet241.ipynb
+* 361: ResNet/ResNet361.ipynb
+* 461: ResNet/ResNet461.ipynb
 
 VAE:
 * Initial VAE:
