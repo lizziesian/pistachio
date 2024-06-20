@@ -20,9 +20,11 @@ ResNet:
 VAE:
 * Initial VAE: VAE/InitialVAE{bandnumber}.ipynb
 * Redesigned VAE: VAE/RedesignVAE361.ipynb
+* PS_VAE{bandnumber}
 
 DCGAN:
-* Initial DCGAN:
-* Extra DCGAN: 
-
+* Initial DCGAN: DCGAN/DCGAN11.ipynb
+* Extra DCGAN: DCGAN/DCGANWHOLE.ipynb
+* PS_GAN11
+* PS_GANWHOLE
 
