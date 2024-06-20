@@ -3,7 +3,7 @@ MEng Individual Project Machine Learning-based Hyperspectral Imagining for Aflat
 
 Dimensionality Reduction with K-Means Clustering: 
 * DimensionalityReduction10.m
-* KMeans.py
+* kMeans.py
 
 Individual Wavelength Breakdown: 
 * View_HS_Bands.m
@@ -18,8 +18,8 @@ ResNet:
 * 461: ResNet/ResNet461.ipynb
 
 VAE:
-* Initial VAE:
-* Redesigned VAE:
+* Initial VAE: VAE/InitialVAE{bandnumber}.ipynb
+* Redesigned VAE: VAE/RedesignVAE361.ipynb
 
 DCGAN:
 * Initial DCGAN:
